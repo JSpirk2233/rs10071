@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rs10071
 - 👀 I’m interested in automating portions of my job
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on autoLISP and C# for AutoCAD
 - 📫 How to reach me send me a message on GitHub!
 
